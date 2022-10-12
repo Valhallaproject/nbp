@@ -1,0 +1,25 @@
+.round{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./../../assets/intro.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.introText{
+    color: #EDEDED;
+    max-width: 60%;
+}
+.introText h2{
+    font-size: 32px;
+    letter-spacing: 5px;
+}
+.introText p{
+    font-size: 20px;
+    letter-spacing: 3px;
+    line-height: 30px;
+}
