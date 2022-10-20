@@ -4,3 +4,19 @@
     width: 100%;
     background-color: #383838;
 }
+.gallery h2{
+    color: #EDEDED;
+    letter-spacing: 10px;
+    padding-top: 150px;
+    font-weight: 200;
+    margin: 0;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-around;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 100px;
+}
