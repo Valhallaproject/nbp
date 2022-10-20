@@ -10,7 +10,7 @@
     justify-content: center;
 
 }
-.banner h1{
+.banner h1 a{
     color: #EDEDED;
     letter-spacing: 10px;
     animation: fadeIn 5s;
